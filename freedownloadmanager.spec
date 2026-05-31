@@ -4,7 +4,7 @@
 
 Name:           freedownloadmanager
 Version:        6.34.0.6878
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        FDM is a powerful modern download accelerator and organizer
 License:        Freeware
 URL:            https://www.freedownloadmanager.org/
