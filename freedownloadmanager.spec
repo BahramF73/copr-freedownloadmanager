@@ -1,4 +1,5 @@
 %global __brp_check_rpaths %{nil}
+%global __requires_exclude_from ^/opt/freedownloadmanager/.*$
 %define debug_package %{nil}
 
 Name:           freedownloadmanager
