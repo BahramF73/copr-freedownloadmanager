@@ -3,7 +3,7 @@
 %define debug_package %{nil}
 
 Name:           freedownloadmanager
-Version:        6.35.0.7018
+Version:        6.35.1.7021
 Release:        1%{?dist}
 Summary:        FDM is a powerful modern download accelerator and organizer
 License:        Freeware
